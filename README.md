@@ -1,4 +1,4 @@
-#  Verilog OJ 前端测试题
+#  Verilog OJ 前端练习题
 
 ## 目标
 
